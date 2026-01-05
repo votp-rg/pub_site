@@ -2,5 +2,18 @@
   "category": "resources",
   "categoryLabel": "Resources",
   "description": "Educational resources, publications, and newsletters.",
-  "articles": []
+  "articles": [
+    {
+      "id": "january-25_news",
+      "title": "VOTP Newsletter - January 2026",
+      "slug": "january-25_news",
+      "excerpt": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida.",
+      "author": "VOTP Team",
+      "publishedDate": "2026-01-01",
+      "featuredImage": "/test.jpg",
+      "tags": ["newsletter", "january", "2026"],
+      "readingTime": 3,
+      "featured": true
+    }
+  ]
 }
