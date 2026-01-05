@@ -4,6 +4,18 @@
   "description": "Articles on agricultural policies, farmer welfare, and rural development in India.",
   "articles": [
     {
+      "id": "farming-issues-telangana",
+      "title": "Farming in Telangana: Major Issues in 2026",
+      "slug": "farming-issues-telangana",
+      "excerpt": "In 2026, Telangana’s farmers face a complex mix of technical and environmental hurdles. Significant urea shortages and distribution app glitches have delayed cultivation, while erratic weather has intensified pest pressure. Meanwhile, ongoing inter-state water disputes and a massive shift toward subsidized oil palm cultivation are reshaping the state's agricultural landscape.",
+      "author": "V S Yerraguid",
+      "publishedDate": "2026-01-05",
+      "featuredImage": "/test.jpg",
+      "tags": ["irrigation", "projects", "analysis"],
+      "readingTime": 8,
+      "featured": true
+    },
+    {
       "id": "farming-reforms-2026",
       "title": "Understanding the New Farming Reforms",
       "slug": "farming-reforms-2026",
