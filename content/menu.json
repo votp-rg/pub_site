@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-01-05",
+  "items": [
+    {
+      "id": "home",
+      "label": "Home",
+      "path": "/",
+      "type": "page"
+    },
+    {
+      "id": "agriculture",
+      "label": "Agriculture",
+      "path": "/agriculture",
+      "type": "category"
+    },
+
+    {
+      "id": "environment",
+      "label": "Environment",
+      "path": "/environment",
+      "type": "category",
+      "children": [
+        {
+          "id": "ethanol",
+          "label": "Ethanol",
+          "path": "/environment/ethanol",
+          "type": "category"
+        },
+        {
+          "id": "pharma",
+          "label": "Pharma",
+          "path": "/environment/pharma",
+          "type": "category"
+        }
+      ]
+    },
+    {
+      "id": "governance",
+      "label": "Governance",
+      "path": "/governance",
+      "type": "category",
+      "children": [
+        {
+          "id": "2-year-review",
+          "label": "2 Year Review",
+          "path": "/governance/2-year-review",
+          "type": "category"
+        },
+        {
+          "id": "telangana-rising",
+          "label": "Telangana Rising",
+          "path": "/governance/telangana-rising",
+          "type": "category"
+        }
+      ]
+    },
+    {
+      "id": "resources",
+      "label": "Resources",
+      "path": "/resources",
+      "type": "category",
+      "children": [
+        {
+          "id": "published",
+          "label": "Published",
+          "path": "/resources/published",
+          "type": "category"
+        },
+        {
+          "id": "newsletter",
+          "label": "Newsletter",
+          "path": "/resources/newsletter",
+          "type": "category"
+        }
+      ]
+    },
+    {
+      "id": "about-us",
+      "label": "About Us",
+      "path": "/about",
+      "type": "page"
+    }
+  ]
+}

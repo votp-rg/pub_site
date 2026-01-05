@@ -1,0 +1,19 @@
+{
+  "category": "environment/pharma",
+  "categoryLabel": "Pharma",
+  "description": "Pharmaceutical industry's environmental impact and regulations.",
+  "articles": [
+    {
+      "id": "pharma-pollution-control",
+      "title": "Pharmaceutical Pollution Control Measures",
+      "slug": "pharma-pollution-control",
+      "excerpt": "Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.",
+      "author": "VOTP Team",
+      "publishedDate": "2025-12-18",
+      "featuredImage": "/test.jpg",
+      "tags": ["pharma", "pollution", "control"],
+      "readingTime": 6,
+      "featured": false
+    }
+  ]
+}

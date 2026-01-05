@@ -1,0 +1,19 @@
+{
+  "category": "governance/2-year-review",
+  "categoryLabel": "2 Year Review",
+  "description": "Comprehensive review of government performance over two years.",
+  "articles": [
+    {
+      "id": "two-year-performance",
+      "title": "Government Performance: A Two Year Analysis",
+      "slug": "two-year-performance",
+      "excerpt": "Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum.",
+      "author": "VOTP Team",
+      "publishedDate": "2025-12-15",
+      "featuredImage": "/test.jpg",
+      "tags": ["performance", "review", "analysis"],
+      "readingTime": 10,
+      "featured": true
+    }
+  ]
+}

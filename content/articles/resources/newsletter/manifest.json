@@ -1,0 +1,19 @@
+{
+  "category": "resources/newsletter",
+  "categoryLabel": "Newsletter",
+  "description": "Monthly newsletters and updates.",
+  "articles": [
+    {
+      "id": "newsletter-jan-2026",
+      "title": "VOTP Newsletter - January 2026",
+      "slug": "newsletter-jan-2026",
+      "excerpt": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida.",
+      "author": "VOTP Team",
+      "publishedDate": "2026-01-01",
+      "featuredImage": "/test.jpg",
+      "tags": ["newsletter", "january", "2026"],
+      "readingTime": 3,
+      "featured": false
+    }
+  ]
+}

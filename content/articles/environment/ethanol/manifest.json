@@ -1,0 +1,43 @@
+{
+  "category": "environment/ethanol",
+  "categoryLabel": "Ethanol",
+  "description": "Ethanol production, policies, and their environmental impact.",
+  "articles": [
+    {
+      "id": "national-ethanol-policy",
+      "title": "National Ethanol Policy Overview",
+      "slug": "national-ethanol-policy",
+      "excerpt": "Maecenas sed diam eget risus varius blandit sit amet non magna. Donec ullamcorper nulla non metus auctor fringilla.",
+      "author": "VOTP Team",
+      "publishedDate": "2025-12-25",
+      "featuredImage": "/test.jpg",
+      "tags": ["national", "policy", "ethanol"],
+      "readingTime": 4,
+      "featured": false
+    },
+    {
+      "id": "village-ethanol-plants",
+      "title": "Village-level Ethanol Plants: A Case Study",
+      "slug": "village-ethanol-plants",
+      "excerpt": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.",
+      "author": "VOTP Team",
+      "publishedDate": "2025-12-20",
+      "featuredImage": "/test.jpg",
+      "tags": ["villages", "plants", "case-study"],
+      "readingTime": 5,
+      "featured": false
+    },
+    {
+      "id": "ethanol-blending-policy",
+      "title": "Ethanol Blending Policy: Progress and Challenges",
+      "slug": "ethanol-blending-policy",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper.",
+      "author": "VOTP Team",
+      "publishedDate": "2026-01-02",
+      "featuredImage": "/test.jpg",
+      "tags": ["ethanol", "policy", "blending"],
+      "readingTime": 6,
+      "featured": true
+    }
+  ]
+}

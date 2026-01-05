@@ -1,0 +1,19 @@
+{
+  "category": "governance",
+  "categoryLabel": "Governance",
+  "description": "Government transparency, accountability, and administrative reforms.",
+  "articles": [
+    {
+      "id": "digital-governance",
+      "title": "Digital Governance Initiatives",
+      "slug": "digital-governance",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+      "author": "VOTP Team",
+      "publishedDate": "2026-01-05",
+      "featuredImage": "/test.jpg",
+      "tags": ["digital", "governance", "initiatives"],
+      "readingTime": 5,
+      "featured": true
+    }
+  ]
+}

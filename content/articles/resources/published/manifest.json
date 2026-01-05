@@ -1,0 +1,19 @@
+{
+  "category": "resources/published",
+  "categoryLabel": "Published",
+  "description": "Published reports and research papers.",
+  "articles": [
+    {
+      "id": "annual-report-2025",
+      "title": "VOTP Annual Report 2025",
+      "slug": "annual-report-2025",
+      "excerpt": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac.",
+      "author": "VOTP Team",
+      "publishedDate": "2025-12-31",
+      "featuredImage": "/test.jpg",
+      "tags": ["report", "annual", "2025"],
+      "readingTime": 15,
+      "featured": false
+    }
+  ]
+}

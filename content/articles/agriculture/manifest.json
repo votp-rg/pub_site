@@ -1,0 +1,56 @@
+{
+  "category": "agriculture",
+  "categoryLabel": "Agriculture",
+  "description": "Articles on agricultural policies, farmer welfare, and rural development in India.",
+  "articles": [
+    {
+      "id": "farming-reforms-2026",
+      "title": "Understanding the New Farming Reforms",
+      "slug": "farming-reforms-2026",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+      "author": "VOTP Team",
+      "publishedDate": "2026-01-03",
+      "featuredImage": "/test.jpg",
+      "tags": ["policy", "reforms", "farmers"],
+      "readingTime": 5,
+      "featured": true,
+      "language": "en",
+      "translations": [
+        {
+          "lang": "te",
+          "label": "Telugu",
+          "file": "farming-reforms-2026-te.md"
+        },
+        {
+          "lang": "hi",
+          "label": "Hindi",
+          "file": "farming-reforms-2026-hi.md"
+        }
+      ]
+    },
+    {
+      "id": "irrigation-projects",
+      "title": "State-wise Irrigation Projects Analysis",
+      "slug": "irrigation-projects",
+      "excerpt": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.",
+      "author": "VOTP Team",
+      "publishedDate": "2026-01-01",
+      "featuredImage": "/test.jpg",
+      "tags": ["irrigation", "projects", "analysis"],
+      "readingTime": 8,
+      "featured": false
+    },
+    {
+      "id": "crop-insurance-scheme",
+      "title": "Crop Insurance Scheme: A Comprehensive Review",
+      "slug": "crop-insurance-scheme",
+      "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.",
+      "author": "VOTP Team",
+      "publishedDate": "2025-12-28",
+      "featuredImage": "/test.jpg",
+      "tags": ["insurance", "farmers", "scheme"],
+      "readingTime": 6,
+      "featured": false
+    }
+  ]
+}

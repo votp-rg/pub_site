@@ -1,0 +1,19 @@
+{
+  "category": "governance/telangana-rising",
+  "categoryLabel": "Telangana Rising",
+  "description": "Telangana state development programs and initiatives.",
+  "articles": [
+    {
+      "id": "telangana-development",
+      "title": "Telangana Rising: Development Milestones",
+      "slug": "telangana-development",
+      "excerpt": "Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.",
+      "author": "VOTP Team",
+      "publishedDate": "2025-12-10",
+      "featuredImage": "/test.jpg",
+      "tags": ["telangana", "development", "milestones"],
+      "readingTime": 8,
+      "featured": true
+    }
+  ]
+}
