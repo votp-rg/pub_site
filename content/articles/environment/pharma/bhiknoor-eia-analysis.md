@@ -1,16 +1,16 @@
-**Scientific and Procedural Critique of the Draft EIA Report**
+# Scientific and Procedural Critique of the Draft EIA Report
 
-**Proposed Expansion of Bulk Drugs & Pharmaceutical Intermediates Project**
+# Proposed Expansion of Bulk Drugs & Pharmaceutical Intermediates Project
 
-**M/s Fusion Health Care Pvt. Ltd.**
+# M/s Fusion Health Care Pvt. Ltd.**
 
-**1\. Executive Statement**
+## 1. Executive Statement
 
 This critique is submitted on behalf of the affected local communities, which will bear the environmental, health, and safety risks associated with the proposed expansion. The review is grounded in strict scientific principles, regulatory requirements under the EIA Notification, 2006, and established chemical engineering practice.
 
 Our central submission is that the Draft EIA is **not a genuine environmental impact assessment**, but a document structured to **minimise, generalise, and in critical places conceal risk**, primarily through omission, aggregation, and non-quantification. The report therefore fails the basic purpose of EIA: **informed decision-making based on precaution and public health protection**.
 
-**2\. Fundamental Procedural Defect: Legacy of B2 Clearance and Evasion of Safeguards**
+## 2. Fundamental Procedural Defect: Legacy of B2 Clearance and Evasion of Safeguards
 
 The project was originally granted Environmental Clearance under **Category B2** during the COVID-19 period, when public consultation and full EIA were waived as an emergency relaxation.
 
@@ -27,7 +27,7 @@ Yet the Draft EIA **does not critically re-examine the legitimacy or consequence
 
 This constitutes **procedural evasion**, where a project is socially and environmentally locked in through an initial exemption and later normalised via expansion.
 
-**3\. Misleading Implication of Technical Competence**
+## 3. Misleading Implication of Technical Competence
 
 The Draft EIA implicitly assumes operational competence in bulk drug manufacturing but **fails to disclose the proponent’s lack of demonstrated experience in synthetic bulk drug production**.
 
@@ -39,9 +39,9 @@ Facts omitted or obscured:
 This omission is not trivial. **Operational experience directly determines accident probability, emission control reliability, and emergency response capability**.  
 Silence on this issue constitutes **deception by omission**.
 
-**4\. Air Emissions: Deliberate Aggregation to Obscure Toxicity**
+## 4. Air Emissions: Deliberate Aggregation to Obscure Toxicity
 
-**4.1 Use of “VOC emissions” as a Risk-Blurring Device**
+### 4.1 Use of “VOC emissions” as a Risk-Blurring Device
 
 The EIA consistently aggregates chemically distinct substances under the generic label “VOCs”, even though:
 
@@ -50,7 +50,7 @@ The EIA consistently aggregates chemically distinct substances under the generic
 
 This aggregation **prevents meaningful health risk assessment** and is scientifically indefensible.
 
-**4.2 Fugitive Solvent Loss: Admitted Quantity, Suppressed Consequences**
+### 4.2 Fugitive Solvent Loss: Admitted Quantity, Suppressed Consequences
 
 The Draft EIA itself admits:
 
@@ -64,7 +64,7 @@ However, the report:
 
 This is a critical failure. **Once a mass emission is admitted, dispersion and exposure assessment are mandatory**. The omission is not accidental; it avoids revealing the magnitude of health risk.
 
-**5\. Control Devices Misrepresented as Elimination Measures**
+## 5. Control Devices Misrepresented as Elimination Measures
 
 Throughout the report, a recurring logical fallacy is employed:
 
@@ -80,7 +80,7 @@ Established chemical-engineering facts:
 
 By presenting control equipment as equivalent to elimination, the EIA **misrepresents mitigation as the absence of impact**, which is a serious technical misrepresentation.
 
-**6\. Risk Assessment in Name Only: Absence of Quantitative Analysis**
+## 6. Risk Assessment in Name Only: Absence of Quantitative Analysis
 
 The consolidated chemical inventory derived from Tables 2.1–2.5 demonstrates that the proposed facility will routinely handle pyrophoric reagents, carcinogenic and reproductive toxic solvents, highly flammable liquids, and generate corrosive toxic gases. These hazards are intrinsic to the disclosed processes and are not hypothetical. Although the EIA claims that risk assessment has been conducted, it provides **none of the elements required for a Quantitative Risk Assessment (QRA)**:
 
@@ -98,7 +98,7 @@ This is particularly grave because:
 
 What is presented is **not a risk assessment, but a checklist of safety equipment**.
 
-**7\. Proximity to Population: Recognition Without Consequence**
+## 7. Proximity to Population: Recognition Without Consequence
 
 The EIA acknowledges the proximity of villages, yet:
 
@@ -107,8 +107,7 @@ The EIA acknowledges the proximity of villages, yet:
 - Does not evaluate vulnerable groups (children, elderly, pregnant women).
 
 This reflects a recurring pattern: **facts are acknowledged but analytically neutralised**.
-
-**8\. Water, ZLD, and Failure Scenarios Ignored**
+## 8. Water, ZLD, and Failure Scenarios Ignored
 
 The report claims Zero Liquid Discharge (ZLD) compliance, yet:
 
@@ -118,7 +117,7 @@ The report claims Zero Liquid Discharge (ZLD) compliance, yet:
 
 ZLD is presented as a **slogan, not an engineered system with failure probabilities**.
 
-**9\. Overall Pattern of Deception**
+## 9. Overall Pattern of Deception
 
 The Draft EIA does not rely on explicit falsehoods. Instead, it systematically employs:
 
@@ -130,7 +129,7 @@ The Draft EIA does not rely on explicit falsehoods. Instead, it systematically e
 
 This constitutes **deception by framing and omission**, which is more insidious than direct misstatement.
 
-**10\. Conclusion: Why This EIA Is Unfit for Appraisal**
+## 10. Conclusion: Why This EIA Is Unfit for Appraisal
 
 From the perspective of affected communities and sound science:
 
