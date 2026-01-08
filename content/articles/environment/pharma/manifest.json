@@ -15,5 +15,17 @@
       "readingTime": 6,
       "featured": false
     }
+    {
+      "id": "bhiknoor-eia-analysis",
+      "title": "Scientific Critique of the Draft EIA Report of Bulk Drugs Plant at Bhiknoor",
+      "slug": "bhiknoor-eia-analysis",
+      "excerpt": "Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.",
+      "author": "VOTP Team",
+      "publishedDate": "2026-01-08",
+      "featuredImage": "/content/articles/environment/pharma/bhiknoor-eia.jpg",
+      "tags": ["pharma", "pollution", "Telangana"],
+      "readingTime": 10,
+      "featured": true
+    }
   ]
 }
