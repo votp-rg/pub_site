@@ -1,11 +1,12 @@
-# Is Telangana Moving Towards People’s Governance? <br> కాంగ్రెస్ రెండేళ్ల పాలన  “ప్రజా పాలన”గా సాగిందా ?  
-## An evaluation of two years of Congress’ Governance in Telangana the state’s civil society <br> Compiled by Telangana People’s Joint Action Committee 
-## FOREWORD by Ravi Kanneganti
+# Is Telangana Moving Towards People’s Governance? 
+# కాంగ్రెస్ రెండేళ్ల పాలన  “ప్రజా పాలన”గా సాగిందా ?  
+## An evaluation of two years of Congress’ Governance in Telangana the state’s civil society 
+## Compiled by Telangana People’s Joint Action Committee 
 
-<!-- ![Government Review](/test.jpg) -->
+# FOREWORD by Ravi Kanneganti
 
+**This review of the Civil Society Review on the functioning of the State Government is a reminder, for government to course correct.**
 
-This review of the Civil Society Review on the functioning of the State Government is a reminder, for government to course correct.  
 As of December 7, 2025, the Congress government in Telangana has completed two years. After nine and a half years of authoritarian rule by the BRS party since 2014, the people delivered their verdict and brought the Congress party to power in the state. Civil society in Telangana believed that the destructive ten-year rule of BRS must be defeated, and that the BJP, which is a Hindutva-fascist force, must not be allowed to expand in Telangana. For this reason, widespread campaigns were conducted across the state on the policies of both parties. The impact of these campaigns was also felt among the people, contributing positively to the Congress victory.
 
 The Abhaya Hastham manifesto, prepared by the Congress party after discussing with various public groups, and the promises given in it, also reached the people effectively. Particularly, the release of the Guarantees Card by Rahul Gandhi filled people with confidence.
@@ -33,10 +34,11 @@ The Musi riverfront restoration, the construction of Future City, the refusal to
 The people of the state did not seek this kind of governance from the Congress government. This is not people’s governance in any sense. If this governance continues in the same manner, the state will be further damaged. It will only lead to strengthening anti-people parties like BRS and BJP once again in Telangana.
 
 Thanks to the civil society representatives and leaders of people’s organisations who have written these review articles on two years of Congress rule, on the functioning of the government, and on the implementation of Congress party promises in various sectors. 
-<br> We hope that this special review will contribute towards increasing citizen awareness in Telangana.
 
-**With regards,** <br>
-**Kanneganti Ravi,** <br>
+We hope that this special review will contribute towards increasing citizen awareness in Telangana.
+
+**With regards,**
+**Kanneganti Ravi,** 
 **Co-Convenor, TPJAC**
 
 ---

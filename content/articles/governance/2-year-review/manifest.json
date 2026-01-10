@@ -5,14 +5,34 @@
   "articles": [
      {
       "id": "foreword",
-      "title": "Foreword on the review of two years of governance",
+      "title": "Foreword ముందు మాట - Kanneganti Ravi",
       "slug": "foreword",
-      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-      "author": "VOTP Team",
+      "excerpt": "ఈ పౌర సమాజ సమీక్ష ఒక హెచ్చరిక.. రాష్ట్ర ప్రభుత్వం తన పని తీరును  మార్చుకోవడానికి",
+      "author": "Kanneganti Ravi",
       "publishedDate": "2026-01-10",
       "featuredImage": "/pictures/2years.jpg",
       "tags": ["policy", "governance"],
       "readingTime": 5,
+      "featured": true,
+      "language": "en",
+      "translations": [
+        {
+          "lang": "te",
+          "label": "Telugu",
+          "file": "foreword-te.md"
+        }        
+      ]
+    },
+    {
+      "id": "agriculture",
+      "title": "Agriculture వ్యవసాయ రంగం - Kiran Vissa, B.Kondal",
+      "slug": "agriculture",
+      "excerpt": "వ్యవసాయ రంగంలో మేనిఫెస్టో హామీల అమలు తీరు",
+      "author": "Kiran Vissa, B.Kondal",
+      "publishedDate": "2026-01-10",
+      "featuredImage": "/pictures/agri-distress.jpg",
+      "tags": ["agriculture", "governance"],
+      "readingTime":12,
       "featured": true,
       "language": "en",
       "translations": [
