@@ -1,8 +1,28 @@
 {
   "category": "governance/2-year-review",
   "categoryLabel": "2 Year Review",
-  "description": "Comprehensive review of government performance over two years.",
+  "description": "An evaluation of two years of Congress’ Governance in Telangana",
   "articles": [
+     {
+      "id": "foreword",
+      "title": "Foreword on the review of two years of governance",
+      "slug": "foreword",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+      "author": "VOTP Team",
+      "publishedDate": "2026-01-10",
+      "featuredImage": "/pictures/2years.jpg",
+      "tags": ["policy", "governance"],
+      "readingTime": 5,
+      "featured": true,
+      "language": "en",
+      "translations": [
+        {
+          "lang": "te",
+          "label": "Telugu",
+          "file": "foreword-te.md"
+        }        
+      ]
+    },
     {
       "id": "two-year-performance",
       "title": "Government Performance: A Two Year Analysis",
@@ -13,7 +33,7 @@
       "featuredImage": "/test.jpg",
       "tags": ["performance", "review", "analysis"],
       "readingTime": 10,
-      "featured": true
+      "featured": false
     }
   ]
 }
