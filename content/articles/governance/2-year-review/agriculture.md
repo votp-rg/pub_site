@@ -1,6 +1,6 @@
 # AGRICULTURE - వ్యవసాయ రంగం
 
-#### Table of Contents
+### Table of Contents
 
 - [Implementaion of Manifesto Promises - Kiran Vissa](#implementation-of-manifesto-promises-in-the-agriculture-sector) 
 - [Farmer Suicides - B Kondal](#unimplemented-promises-unabating-farmer-suicides)
